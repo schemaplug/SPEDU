@@ -1,0 +1,10 @@
+D:\RaselAhmmed\MyLab\SPEDU\SPEDU.Data\bin\Debug\SPEDU.Data.dll
+D:\RaselAhmmed\MyLab\SPEDU\SPEDU.Data\bin\Debug\SPEDU.Data.pdb
+D:\RaselAhmmed\MyLab\SPEDU\SPEDU.Data\obj\Debug\SPEDU.Data.csprojResolveAssemblyReference.cache
+D:\RaselAhmmed\MyLab\SPEDU\SPEDU.Data\obj\Debug\SPEDU.Data.dll
+D:\RaselAhmmed\MyLab\SPEDU\SPEDU.Data\obj\Debug\SPEDU.Data.pdb
+D:\RaselAhmmed\MyLab\SPEDU\SPEDU.Data\bin\Debug\SPEDU.Data.dll.config
+D:\RaselAhmmed\MyLab\SPEDU\SPEDU.Data\bin\Debug\EntityFramework.dll
+D:\RaselAhmmed\MyLab\SPEDU\SPEDU.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\RaselAhmmed\MyLab\SPEDU\SPEDU.Data\bin\Debug\EntityFramework.xml
+D:\RaselAhmmed\MyLab\SPEDU\SPEDU.Data\bin\Debug\EntityFramework.SqlServer.xml

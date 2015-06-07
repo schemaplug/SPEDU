@@ -1,0 +1,5 @@
+D:\RaselAhmmed\MyLab\SPEDU\SPEDU.Business\bin\Debug\SPEDU.Business.dll
+D:\RaselAhmmed\MyLab\SPEDU\SPEDU.Business\bin\Debug\SPEDU.Business.pdb
+D:\RaselAhmmed\MyLab\SPEDU\SPEDU.Business\obj\Debug\SPEDU.Business.csprojResolveAssemblyReference.cache
+D:\RaselAhmmed\MyLab\SPEDU\SPEDU.Business\obj\Debug\SPEDU.Business.dll
+D:\RaselAhmmed\MyLab\SPEDU\SPEDU.Business\obj\Debug\SPEDU.Business.pdb

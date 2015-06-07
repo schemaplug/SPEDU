@@ -1,0 +1,5 @@
+D:\RaselAhmmed\MyLab\SPEDU\SPEDU.DomainViewModel\bin\Debug\SPEDU.DomainViewModel.dll
+D:\RaselAhmmed\MyLab\SPEDU\SPEDU.DomainViewModel\bin\Debug\SPEDU.DomainViewModel.pdb
+D:\RaselAhmmed\MyLab\SPEDU\SPEDU.DomainViewModel\obj\Debug\SPEDU.DomainViewModel.csprojResolveAssemblyReference.cache
+D:\RaselAhmmed\MyLab\SPEDU\SPEDU.DomainViewModel\obj\Debug\SPEDU.DomainViewModel.dll
+D:\RaselAhmmed\MyLab\SPEDU\SPEDU.DomainViewModel\obj\Debug\SPEDU.DomainViewModel.pdb

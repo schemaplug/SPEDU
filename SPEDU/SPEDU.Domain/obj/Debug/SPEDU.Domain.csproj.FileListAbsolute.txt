@@ -1,0 +1,15 @@
+D:\RaselAhmmed\MyLab\SPEDU\SPEDU.Domain\bin\Debug\SPEDU.Domain.dll
+D:\RaselAhmmed\MyLab\SPEDU\SPEDU.Domain\bin\Debug\SPEDU.Domain.pdb
+D:\RaselAhmmed\MyLab\SPEDU\SPEDU.Domain\obj\Debug\SPEDU.Domain.csprojResolveAssemblyReference.cache
+D:\RaselAhmmed\MyLab\SPEDU\SPEDU.Domain\obj\Debug\SPEDU.Domain.dll
+D:\RaselAhmmed\MyLab\SPEDU\SPEDU.Domain\obj\Debug\SPEDU.Domain.pdb
+D:\RaselAhmmed\MyLab\SPEDU\SPEDU.Domain\bin\Debug\AutoMapper.Net4.dll
+D:\RaselAhmmed\MyLab\SPEDU\SPEDU.Domain\bin\Debug\SPEDU.Domain.dll.config
+D:\RaselAhmmed\MyLab\SPEDU\SPEDU.Domain\bin\Debug\AutoMapper.dll
+D:\RaselAhmmed\MyLab\SPEDU\SPEDU.Domain\bin\Debug\EntityFramework.dll
+D:\RaselAhmmed\MyLab\SPEDU\SPEDU.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\RaselAhmmed\MyLab\SPEDU\SPEDU.Domain\bin\Debug\AutoMapper.pdb
+D:\RaselAhmmed\MyLab\SPEDU\SPEDU.Domain\bin\Debug\AutoMapper.xml
+D:\RaselAhmmed\MyLab\SPEDU\SPEDU.Domain\bin\Debug\AutoMapper.Net4.pdb
+D:\RaselAhmmed\MyLab\SPEDU\SPEDU.Domain\bin\Debug\EntityFramework.xml
+D:\RaselAhmmed\MyLab\SPEDU\SPEDU.Domain\bin\Debug\EntityFramework.SqlServer.xml
