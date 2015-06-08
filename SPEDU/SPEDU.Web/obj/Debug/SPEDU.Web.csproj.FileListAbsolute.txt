@@ -59,3 +59,6 @@ D:\RaselAhmmed\MyLab\SPEDU\SPEDU.Web\bin\Microsoft.Owin.Security.MicrosoftAccoun
 D:\RaselAhmmed\MyLab\SPEDU\SPEDU.Web\obj\Debug\SPEDU.Web.csprojResolveAssemblyReference.cache
 D:\RaselAhmmed\MyLab\SPEDU\SPEDU.Web\obj\Debug\SPEDU.Web.dll
 D:\RaselAhmmed\MyLab\SPEDU\SPEDU.Web\obj\Debug\SPEDU.Web.pdb
+C:\Users\raselbappi\Documents\GitHub\SPEDU\SPEDU\SPEDU.Web\obj\Debug\SPEDU.Web.csprojResolveAssemblyReference.cache
+C:\Users\raselbappi\Documents\GitHub\SPEDU\SPEDU\SPEDU.Web\obj\Debug\SPEDU.Web.dll
+C:\Users\raselbappi\Documents\GitHub\SPEDU\SPEDU\SPEDU.Web\obj\Debug\SPEDU.Web.pdb

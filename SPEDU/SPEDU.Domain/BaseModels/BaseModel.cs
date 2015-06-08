@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace SPEDU.Domain.BaseModels
 {
@@ -17,5 +18,8 @@ namespace SPEDU.Domain.BaseModels
 
         public int DeletedBy { get; set; }
         public DateTime DeletedDate { get; set; }
+
+        [NotMapped]
+        public string ActionLink { get; set; }
     }
 }

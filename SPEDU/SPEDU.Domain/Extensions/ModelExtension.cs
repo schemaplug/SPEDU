@@ -6,7 +6,7 @@ namespace SPEDU.Domain.Extensions
     public static class ModelExtension
     {
         public static TViewModel ConvertModelToViewModel<TModel, TViewModel>(this TModel model)
-            where TViewModel : BaseViewModel
+            where TViewModel : BaseModel
             where TModel : BaseModel
         {
             Mapper.CreateMap<TModel, TViewModel>();
@@ -15,7 +15,7 @@ namespace SPEDU.Domain.Extensions
         }
 
         public static TModel ConvertViewModelToModel<TViewModel, TModel>(this TViewModel viewModel)
-            where TViewModel : BaseViewModel
+            where TViewModel : BaseModel
             where TModel : BaseModel
         {
             Mapper.CreateMap<TViewModel, TModel>();

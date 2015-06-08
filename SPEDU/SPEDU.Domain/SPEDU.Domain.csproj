@@ -60,6 +60,7 @@
     <Compile Include="Models\Application\AppEmailTemplateCategory.cs" />
     <Compile Include="Models\Application\AppInformation.cs" />
     <Compile Include="Models\Application\AppMenu.cs" />
+    <Compile Include="Models\Application\AppRight.cs" />
     <Compile Include="Models\Application\AppSMSTemplate.cs" />
     <Compile Include="Models\Application\AppSMSTemplateCategory.cs" />
     <Compile Include="Models\Application\AppUserActivity.cs" />
@@ -68,6 +69,7 @@
     <Compile Include="Models\Application\AppWidgetCategory.cs" />
     <Compile Include="Models\Application\Role.cs" />
     <Compile Include="Models\Application\User.cs" />
+    <Compile Include="Models\Application\UserProfile.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

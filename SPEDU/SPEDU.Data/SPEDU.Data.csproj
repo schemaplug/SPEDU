@@ -62,6 +62,12 @@
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SPEDU.Domain\SPEDU.Domain.csproj">
+      <Project>{8fc33a59-90e4-4bfa-aa06-d879ab02cb56}</Project>
+      <Name>SPEDU.Domain</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

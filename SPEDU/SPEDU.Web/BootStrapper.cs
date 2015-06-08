@@ -7,6 +7,7 @@ using Autofac.Integration.Mvc;
 using SPEDU.Data;
 using SPEDU.Data.Infrastructure;
 using SPEDU.Data.Repositories;
+using SPEDU.Business.Application;
 
 namespace SPEDU.Web
 {
@@ -56,8 +57,8 @@ namespace SPEDU.Web
                 builder.RegisterGeneric(typeof(Repository<>)).InstancePerLifetimeScope();
 
                 // Register service
-                builder.RegisterAssemblyTypes(typeof(UserService).Assembly)
-                .Where(t => t.Name.EndsWith("Service"))
+                builder.RegisterAssemblyTypes(typeof(UserRepository).Assembly)
+                .Where(t => t.Name.EndsWith("Repository"))
                 .AsImplementedInterfaces().InstancePerDependency();
 
                 var container = builder.Build();
