@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SPEDU.Domain.Models.Application
 {
-    class AppInformation
+    public class AppInformation
     {
     }
 }

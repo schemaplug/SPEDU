@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SPEDU.Domain.Models.Application
 {
-    class AppEmailTemplateCategory
+    public class AppEmailTemplateCategory
     {
     }
 }
