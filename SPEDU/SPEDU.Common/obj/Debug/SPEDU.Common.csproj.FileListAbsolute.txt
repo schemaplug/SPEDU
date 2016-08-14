@@ -8,3 +8,8 @@ C:\Users\raselbappi\Documents\GitHub\SPEDU\SPEDU\SPEDU.Common\bin\Debug\SPEDU.Co
 C:\Users\raselbappi\Documents\GitHub\SPEDU\SPEDU\SPEDU.Common\obj\Debug\SPEDU.Common.csprojResolveAssemblyReference.cache
 C:\Users\raselbappi\Documents\GitHub\SPEDU\SPEDU\SPEDU.Common\obj\Debug\SPEDU.Common.dll
 C:\Users\raselbappi\Documents\GitHub\SPEDU\SPEDU\SPEDU.Common\obj\Debug\SPEDU.Common.pdb
+C:\Users\user\Documents\GitHub\SPEDU\SPEDU\SPEDU.Common\bin\Debug\SPEDU.Common.dll
+C:\Users\user\Documents\GitHub\SPEDU\SPEDU\SPEDU.Common\bin\Debug\SPEDU.Common.pdb
+C:\Users\user\Documents\GitHub\SPEDU\SPEDU\SPEDU.Common\obj\Debug\SPEDU.Common.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\SPEDU\SPEDU\SPEDU.Common\obj\Debug\SPEDU.Common.dll
+C:\Users\user\Documents\GitHub\SPEDU\SPEDU\SPEDU.Common\obj\Debug\SPEDU.Common.pdb
